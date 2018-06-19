@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\BackButtonScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\MainMenuScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BackButtonScript.cs" Line="4" Column="19" />
+      <File FileName="Assets\Scripts\LevelControlScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WinSceneScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Art\music.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Quit.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Un_Active.cs" Line="3" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
